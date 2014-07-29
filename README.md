@@ -41,3 +41,7 @@ for i in *.html; do wkhtmltoimage --height 640 --width 429 $i `basename $i .html
 
 Thats all.
 We get all the images.
+
+
+Background Image source: http://pixabay.com/en/grey-background-texture-template-370125/
+License     Public Domain CC0
