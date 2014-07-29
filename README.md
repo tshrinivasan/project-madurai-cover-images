@@ -45,3 +45,7 @@ We get all the images.
 
 Background Image source: http://pixabay.com/en/grey-background-texture-template-370125/
 License     Public Domain CC0
+
+
+Uploaded all the generated cover images here:
+https://picasaweb.google.com/tshrinivasan/ProjectMaduraiCoverImages?noredirect=1
