@@ -48,4 +48,5 @@ License     Public Domain CC0
 
 
 Uploaded all the generated cover images here:
-https://picasaweb.google.com/tshrinivasan/ProjectMaduraiCoverImages?noredirect=1
+
+https://photos.app.goo.gl/53mGdewpZqik8GmbA
